@@ -1,0 +1,15 @@
+{
+  "name": "share-links-server",
+  "version": "1.0.0",
+  "author": {
+    "name": "Shin-JaeHeon",
+    "email": "shinjaeheon520614@gmail.com",
+    "url": "https://jaeheon.kr"
+  },
+  "main": "src/app.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^10.14.4"
+  }
+}
